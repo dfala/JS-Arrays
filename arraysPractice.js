@@ -221,8 +221,6 @@ var getLongest = function (arr1, arr2) {
   }
 }
 
-console.log( getLongest(arr1, arr2) );
-
 
 /*As a continuation of the previous problem, write another function called 'both'.
   Your 'both' function will be given two arguments, arr1 and arr2 (from the previous example)
